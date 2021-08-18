@@ -1,0 +1,8 @@
+print('Welcome on Board') 
+print ('Please fill this form')
+Name=input ('What is your Name ')
+Age=input ('Year of birth ')
+Address=input ('Where do you live ')
+print ('Name: ' + Name)
+print('Year of Birth: ' + Age)
+print('Location: '+ Address)
